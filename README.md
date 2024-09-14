@@ -18,7 +18,7 @@ scoop install starship
 * Add the following to your `$PROFILE` file:
 ```pwsh
 Invoke-Expression (&starship init powershell)
-``
+```
 
 ## Linux
 
